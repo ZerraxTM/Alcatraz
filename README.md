@@ -1,82 +1,118 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Alcatraz" src="https://i.imgur.com/cZkBm9I.png">  
+<p align="center">
+  <img src="https://socialify.git.ci/ZerraxTM/Alcatraz/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Alcatraz Reborn" />
+</p>
 
-# AlcatrazV4
+<div align="center">
 
-[![](https://img.shields.io/discord/876540658838569011.svg?logo=discord&colorB=7289DA)](https://discord.gg/Kcw3q53353)
-[![](https://img.shields.io/badge/discord.js-v12.4.1-blue.svg?logo=npm)](https://discord.js.org/)
-[![](https://img.shields.io/badge/nodejs-14.15.0-green.svg)](https://www.nodejs.org)
-[![](https://img.shields.io/badge/paypal-donation-blue.svg)](https://paypal.me/GalackQSM?locale.x=fr_FR)
-[![](https://www.codefactor.io/repository/gitlab/galackqsm/alcatraz/badge)](https://www.codefactor.io/repository/gitlab/galackqsm/Alcatraz)
-[![](https://top.gg/api/widget/status/774652242787041310.svg)](https://top.gg/bot/774652242787041310)
-[![](https://top.gg/api/widget/upvotes/774652242787041310.svg)](https://top.gg/bot/774652242787041310)
-[![](https://top.gg/api/widget/servers/774652242787041310.svg)](https://top.gg/bot/774652242787041310)
-[![](https://top.gg/api/widget/owner/774652242787041310.svg)](https://top.gg/bot/774652242787041310)
+[![Discord](https://img.shields.io/discord/876540658838569011?label=Discord&logo=discord&colorB=7289DA)](https://discord.gg/Kcw3q53353)
+[![Discord.js](https://img.shields.io/badge/discord.js-v14.x-blue.svg?logo=npm)](https://discord.js.org/)
+[![Node](https://img.shields.io/badge/node.js-16%2B-green.svg)](https://nodejs.org/)
+[![PayPal](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/GalackQSM?locale.x=fr_FR)
+[![CodeFactor](https://www.codefactor.io/repository/gitlab/galackqsm/alcatraz/badge)](https://www.codefactor.io/repository/gitlab/galackqsm/Alcatraz)
 
-> Ce bot est sous licence (BSD 2-Clause License) et également en open-source.
+</div>
 
-Alcatraz est un bot Discord codé en JavaScript avec [Discord.js](https://discord.js.org) et [SQLITE](https://www.sqlite.org) par [ZerraxTM](https://github.com/ZerraxTM).  
-N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
-## Informations
+---
 
-### Bot complet
+# Alcatraz - Reprise & Mise à jour
 
-Offres de Alcatraz:
-* 💥 Un bot 100% Français pas comme les autres
-* 💯 Plus de 220 commandes
-* 🌐 Des commandes en tout genre, Rôle couleur, Fun, Nsfw, Modération, Général, Image, Anti-Raid, Niveau etc...
-* 🤩 Besoin que d'un bot au mieux de plusieurs
-* ⚙️ Rejoins la communautés de Alcatraz Lounge
+> **Bot Discord sous licence BSD 2-Clause** • **Dernière version de [Discord.js](https://discord.js.org/)** • **Open-source**  
+> Reprenant le projet Alcatraz avec de nombreuses fonctionnalités pour la gestion de votre serveur Discord en **Français**.
 
-### Les commandes
+---
 
-Alcatraz a beaucoup de fonctionnalités, avec **15 catégories principales**:
+## 🔗 Liens Rapides
+> - [📂 Structure du Répertoire](#-structure-du-répertoire)  
+> - [🚀 Démarrage Rapide](#-démarrage-rapide)  
+>   - [⚙️ Installation](#️-installation)  
+>   - [🤖 Exécution du Bot](#-exécution-du-bot)  
+>   - [🧪 Tests (Optionnel)](#-tests-optionnel)  
+> - [❓ Pourquoi Alcatraz ?](#-pourquoi-alcatraz-)  
+> - [📜 Licence & Crédits](#-licence--crédits)  
 
-*   👩‍💼 **Administration**: `desacategorie`, `randomcolor`, `setautokick`, `setwelcomechannel`, `setwelcomemessage` et **+**! 
-*   🚓 **Modération**: `addrole`, `slowmode`, `softban`, `warnlist`, et **+**! 
-*   🧨 **Anti-Raid**: `addwhitelist`, `config`, `suppwhitelist`, `whitelist`, et **+**! 
-*   ⭐ **couleur**: `couleur`, `couleurhasard`, `creecouleur`, `creedefaultcolors`, et **+**! 
-*   🎲 **Fun**: `clyde`, `blague`, `kiss`, `fakeban`, `trumptweet` et **+**! 
-*   🖨️ **Général**: `bienvenue`, `feedback`, `pseudo`, et **+**! 
-*   🎮 **Jeux**: `8ball`, `coinflip`, `pfc`, et **+**! 
-*   ⌛ **Backup**: `creebackup`, `chargerbackup`, `infobackup` ! 
-*   👤 **Avatar**: `a-suivre`, `alcatraz-filtre`, `alcatraz-logo`, `psg`, `om`, et **+**! 
-*   🔞 **Nsfw**: `4k`, `anal`, `gonewild`, `hentai`, `pgif` et **+**! 
-*   💰 **Economie**: `balance`, `daily`, `dailyweek`, `deposit`, `manche` et **+**! 
-*   💡 **Niveau**: `addrep`, `niveau`, `rank`, `offxp`, `onxp` et **+**! 
-*   🔔 **Info**: `admins`, `avatar`, `invitemoi`, `members`, `saloninfo` et **+**! 
-*   🏆 **Points**: `actionpoints`, `couronne`, `givepoints`, `leaderboard`, `position` et **+**! 
-*   👑 **Owner**: `delallservpoints`, `quitguild`, `servers`, `eval`, `deluserpoints` et **+**! 
+---
 
-## Installation
-* 1- Commencer par télécharger le repo et d'extraire le dossier `alcatrazV3-master`sur votre bureau.
-* 2- Ouvrez la racine de votre dossier avec CMD
-* 3- Faite la commande `yarn install` [Télécharger Yarn](https://yarnpkg.com/lang/fr/docs/install/).
-* 4- Allez dans le fichier `config.json` et le remplir.
-* 5- Après faite dans le CMD `npm start`.
+## 📂 Structure du Répertoire
 
-* Si vous arrivez pas a installer les modules: [Télécharger les modules](https://anonfiles.com/3ab9O4E6u6/node_modules_zip)
+```bash
+Alcatraz/
+├── LICENSE
+├── README.md
+├── config.json
+├── package.json
+├── yarn.lock
+├── node_modules/
+├── src/
+│   ├── commands/
+│   ├── events/
+│   ├── handlers/
+│   └── ...
+└── ...
+```
 
-* PS: Si vous avez des erreurs d'installation, télécharger [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) et cocher cette case pendant l'installation [Screen](https://i.imgur.com/KTqnSxo.png) et refaire `npm start` et le tour est jouer.
+*(L’arborescence peut varier selon vos modifications ou ajouts.)*
 
-* Pensez a activer les Privileged Gateway Intents de votre bot pour qu'il fonctionne [Image ici](https://prnt.sc/vq58ed)
+---
 
-## Bot liste
-[![](https://top.gg/api/widget/876495429859176478.svg)](https://top.gg/bot/876495429859176478) [![](https://infinitybotlist.com/bots/876495429859176478/widget?size=small)](https://infinitybotlist.com/bots/876495429859176478) [![](https://discord.boats/api/widget/876495429859176478)](https://discord.boats/bot/876495429859176478) [![](https://botsfordiscord.com/api/bot/876495429859176478/widget)](https://botsfordiscord.com/bots/876495429859176478)
- <a href="https://voidbots.net/bot/876495429859176478" >
-  <img src="https://voidbots.net/api/embed/876495429859176478" width="300" alt="Alcatraz" />
+## 🚀 Démarrage Rapide
 
+### ⚙️ Installation
 
+1. **Cloner** ce dépôt :
+   ```bash
+   git clone https://github.com/ZerraxTM/Alcatraz
+   ```
+2. **Aller** dans le dossier du projet :
+   ```bash
+   cd Alcatraz
+   ```
+3. **Installer** les dépendances :
+   ```bash
+   yarn install
+   ```
+   > *Ou `npm install` si vous préférez NPM.*  
 
-## Lien utiles
+4. **Configurer** le bot dans `config.json` (token Discord, préfix, etc.).  
 
-*   [Discord](https://discord.gg/Kcw3q53353)
-*   [Github](https://github.com/ZerraxTM/Alcatraz)
-*   [Donation](https://paypal.me/GalackQSM?locale.x=fr_FR)
+---
 
+### 🤖 Exécution du Bot
 
+Pour **lancer** Alcatraz, exécutez :
 
-## License
+```bash
+npm start
+```
+*(Ou `yarn start` si vous utilisez Yarn.)*
 
-Alcatraz est licencié sous la licence (BSD 2-Clause License). Voir le fichier «LICENCE» pour plus d'informations. Si vous envisagez d'utiliser une partie de ce code source dans votre propre bot, je vous serais reconnaissant d'inclure une forme de crédit quelque part.
- 
-## La commande *créditsbot dois rester sur votre projet
+---
+
+### 🧪 Tests (Optionnel)
+
+Si vous avez mis en place des tests unitaires ou d’intégration, vous pouvez les lancer avec :
+
+```bash
+npm test
+```
+
+---
+
+## ❓ Pourquoi Alcatraz ?
+
+- **💥 100% Français** : Un bot complet pour la gestion de votre serveur francophone.  
+- **💯 220+ Commandes** : Anti-raid, modération, fun, économie, niveaux, NSFW, jeux, et bien plus encore.  
+- **🤖 Centralisation** : Fini les multiples bots, Alcatraz couvre la plupart des fonctionnalités indispensables.  
+- **👥 Communauté Active** : Rejoignez-nous sur [Discord](https://discord.gg/Kcw3q53353) pour échanger, demander de l’aide ou partager vos idées.  
+
+---
+
+## 📜 Licence & Crédits
+
+- **Licence** : Ce projet est sous licence [BSD 2-Clause](./LICENSE).  
+- **Crédits** : Pensez à **conserver** la commande `créditsbot` si vous réutilisez une partie du code dans votre propre projet.  
+
+---
+
+<p align="center">
+  Merci pour votre intérêt ! N’oubliez pas de laisser une ⭐ pour soutenir Alcatraz et profitez d’un bot Discord complet en Français.
+</p>

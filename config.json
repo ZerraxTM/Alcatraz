@@ -1,0 +1,53 @@
+{
+  "ownerId": "TON ID UTILISATEUR OWNER",
+  "ownerTag": "TON TAG",
+  "token": "TON TOKEN",
+  "BotID": "TON ID BOT",
+  "version": "4.0.0",
+  "NomBot": "Alcatraz",
+  "footer": "TEXTE EN BAS DES EMBDES (si tu ne veux rien mets rien)",
+  "Topgg": "Cle api pour https://top.gg",
+  "BOATS": "Cle api pour https://discord.boats",
+  "VoidBots": "Cle api pour https://voidbots.net",
+  "SpaceBotList": "Cle api pour https://space-bot-list.xyz",
+  "InfinityBotList": "Cle api pour https://infinitybotlist.com",
+  "TrackerGG": "Cle api pour https://tracker.gg",
+  "ANTI_INSULTE": [
+    "putin",
+    "fdp",
+    "enculer",
+    "fils de pute",
+    "salope",
+    "ntm",
+    "nique ta mere",
+    "connard",
+    "batard",
+    "sale noir",
+    "baise ta mere",
+    "mange tes morts",
+    "ta gueule",
+    "bâtard",
+    "nique ta mère"
+  ],
+  "ANTI_INSULTE_BYPASS": [
+    "p\\W*u\\W*t\\W*i\\W*n",
+    "f\\W*d\\W*p",
+    "e\\W*n\\W*c\\W*u\\W*l\\W*e\\W*r",
+    "c\\W*o\\W*n\\W*n\\W*a\\W*r\\W*d",
+    "b\\W*a\\W*t\\W*a\\W*r\\W*d",
+    "s\\W*a\\W*l\\W*o\\W*p\\W*e",
+    "n\\W*i\\W*q\\W*u\\W*e\\W*t\\W*a\\W*m\\W*e\\W*r\\W*e",
+    "t\\W*a\\W*\\W*g\\W*u\\W*e\\W*u\\W*l\\W*e",
+    "c\\W*o\\W*n\\W*\\W*(n|ñ)\\W*a\\W*s\\W*se",
+    "s\\W*a\\W*l\\W*e\\W*\\W*(n|ñ)\\W*o\\W*i\\W*r"
+  ],
+  "NomServeur": "ZCH TOOLS",
+  "Support": "https://discord.gg/zch",
+  "bugReportChannelId": "1323298577526685829",
+  "modlogChannelId": "1323298577526685829",
+  "ticketChannelId": "1323298577526685829",
+  "apiKeys": {
+    "catApi": "44d2e7c1-e82b-4fba-bec2-e6b07affb71f",
+    "googleApi": "AIzaSyCk09BwA1RxwuvEgKkTWqveGqyPfuCMqUI"
+  }
+}

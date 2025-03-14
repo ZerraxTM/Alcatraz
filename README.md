@@ -4,11 +4,10 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/discord/876540658838569011?label=Discord&logo=discord&colorB=7289DA)](https://discord.gg/Kcw3q53353)
+[![Discord](https://img.shields.io/discord/876540658838569011?label=Discord&logo=discord&colorB=7289DA)](https://discord.gg/zch)
 [![Discord.js](https://img.shields.io/badge/discord.js-v14.x-blue.svg?logo=npm)](https://discord.js.org/)
 [![Node](https://img.shields.io/badge/node.js-16%2B-green.svg)](https://nodejs.org/)
-[![PayPal](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/GalackQSM?locale.x=fr_FR)
-[![CodeFactor](https://www.codefactor.io/repository/gitlab/galackqsm/alcatraz/badge)](https://www.codefactor.io/repository/gitlab/galackqsm/Alcatraz)
+[![PayPal](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/zerrax271)
 
 </div>
 

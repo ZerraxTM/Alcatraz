@@ -102,7 +102,7 @@ npm test
 - **💥 100% Français** : Un bot complet pour la gestion de votre serveur francophone.  
 - **💯 220+ Commandes** : Anti-raid, modération, fun, économie, niveaux, NSFW, jeux, et bien plus encore.  
 - **🤖 Centralisation** : Fini les multiples bots, Alcatraz couvre la plupart des fonctionnalités indispensables.  
-- **👥 Communauté Active** : Rejoignez-nous sur [Discord](https://discord.gg/Kcw3q53353) pour échanger, demander de l’aide ou partager vos idées.  
+- **👥 Communauté Active** : Rejoignez-nous sur [Discord](https://discord.gg/zch) pour échanger, demander de l’aide ou partager vos idées.  
 
 ---
 

@@ -1,0 +1,14 @@
+12/03/2025 17:08:52 - error [Alcatraz.js]: You are missing to provide webhook auth, Please read readme.md file for more information!
+{
+  "stack": "Error: You are missing to provide webhook auth, Please read readme.md file for more information!
+    at new infinity (/root/scripts/Ok/node_modules/infinity-api/src/index.js:21:23)
+    at module.exports (/root/scripts/Ok/src/events/ready.js:117:17)
+    at Client.emit (node:events:529:35)
+    at WebSocketManager.triggerClientReady (/root/scripts/Ok/node_modules/discord.js/src/client/websocket/WebSocketManager.js:431:17)
+    at WebSocketManager.checkShardsReady (/root/scripts/Ok/node_modules/discord.js/src/client/websocket/WebSocketManager.js:415:10)
+    at WebSocketShard.<anonymous> (/root/scripts/Ok/node_modules/discord.js/src/client/websocket/WebSocketManager.js:197:14)
+    at WebSocketShard.emit (node:events:517:28)
+    at WebSocketShard.checkReady (/root/scripts/Ok/node_modules/discord.js/src/client/websocket/WebSocketShard.js:475:12)
+    at WebSocketShard.onPacket (/root/scripts/Ok/node_modules/discord.js/src/client/websocket/WebSocketShard.js:447:16)
+    at WebSocketShard.onMessage (/root/scripts/Ok/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)"
+}

@@ -5,7 +5,7 @@
   "BotID": "TON ID BOT",
   "version": "4.0.0",
   "NomBot": "Alcatraz",
-  "footer": "TEXTE EN BAS DES EMBDES (si tu ne veux rien mets rien)",
+  "footer": "TEXTE EN BAS DES EMBEDS (si tu ne veux rien mets rien)",
   "Topgg": "Cle api pour https://top.gg",
   "BOATS": "Cle api pour https://discord.boats",
   "VoidBots": "Cle api pour https://voidbots.net",

@@ -1,7 +1,7 @@
 {
   "name": "alcatraz",
   "version": "3.0.0",
-  "description": "Un bot entièrement personnalisable construit avec discord.js par GalackQSM",
+  "description": "Un bot entièrement personnalisable construit avec discord.js par GalackQSM update par LeZ",
   "main": "Alcatraz.js",
   "dependencies": {
     "@spyte-corp/discord.js-remove-on-reaction": "^1.0.5",
